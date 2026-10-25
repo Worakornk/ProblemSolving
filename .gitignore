@@ -1,1 +1,20 @@
+# Build output
 *.exe
+*.out
+*.o
+*.obj
+*.pdb
+*.ilk
+*.dSYM/
+a.out
+bin/
+build/
+
+# Editor files
+.vscode/
+.idea/
+tempCodeRunnerFile*
+
+# OS
+.DS_Store
+Thumbs.db
